@@ -1,7 +1,7 @@
 
 const App = () => {
   return (
-    <div>jobify App</div>
+    <h1>jobify App</h1>
   )
 }
 
